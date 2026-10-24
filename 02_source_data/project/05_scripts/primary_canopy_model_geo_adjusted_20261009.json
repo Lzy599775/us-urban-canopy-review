@@ -1,0 +1,33 @@
+{
+  "seed": 20260912,
+  "folds": 5,
+  "fold_source": "EXISTING_FROZEN_SPATIAL_FOLD_INDICES_NOT_REGENERATED",
+  "x_columns": ["age65plus_share_2000", "poverty_share_2000", "income_point_usd_2000", "population_2000"],
+  "w_columns": ["baseline_canopy_percent_fixed_land_2000", "tmmx_c_warm_season_mean_available_land", "tmmn_c_warm_season_mean_available_land", "pr_mm_warm_season_mean_available_land"],
+  "geographic_nuisance_basis": ["centroid_epsg5070_x_m/1000000", "centroid_epsg5070_y_m/1000000", "x2", "y2", "xy"],
+  "nuisance_forest": {
+    "n_estimators": 200,
+    "max_depth": 12,
+    "min_samples_leaf": 5,
+    "random_state": 20260912,
+    "n_jobs": 1
+  },
+  "causal_forest": {
+    "n_estimators": 1000,
+    "subforest_size": 4,
+    "min_samples_leaf": 15,
+    "min_samples_split": 10,
+    "max_depth": null,
+    "max_samples": 0.45,
+    "criterion": "mse",
+    "honest": true,
+    "inference": false,
+    "fit_intercept": true
+  },
+  "estimand": "CONDITIONAL_LOCAL_LINEAR_CANOPY_EFFECT_PER_ONE_PERCENTAGE_POINT_WITH_GEOGRAPHIC_NUISANCE_CONTROL",
+  "sample": "OBSERVATION_QUALIFIED_COMPLETE_TRACT_YEARS_FIXED_2000_URBAN_INTERSECTION",
+  "geographic_confounder_controls": "PRETREATMENT_METRIC_COORDINATES_AND_LOW_ORDER_SPATIAL_BASIS_IN_NUISANCE_MODELS_ONLY",
+  "spatial_inference": "SPATIAL_HAC_REFERENCE_INTERVAL_CONDITIONAL_ON_PROCESSED_MEASUREMENTS",
+  "health_outcome": "NOT_ESTIMATED",
+  "selection_weights": "NONE_COMPLETE_CASE_SCOPE_ONLY"
+}

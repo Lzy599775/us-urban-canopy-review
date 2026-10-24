@@ -1,0 +1,62 @@
+﻿field,type,definition,unit
+state,string,State FIPS; preserve two digits,identifier
+tract_id,string,Year-2000 tract GEOID; preserve eleven digits,identifier
+single_city_id,string/empty,Unique fixed urbanized-area assignment,identifier
+year,integer,Annual resource year,calendar year
+exposure_year,integer,Canopy year 2013/2018/2023,calendar year
+outcome_year,integer,Temperature year 2014/2019/2024,calendar year
+urban_canopy_percent_fixed_land,float,Canopy over frozen urban land,percent 0-100
+canopy_2000,float,Baseline canopy,percent
+canopy_2025,float,Endpoint canopy,percent
+change_pp,float,2025 minus 2000 canopy,percentage points
+change_from_2000_pp,float,Resource-year cover minus baseline,percentage points
+treatment_pp_change_from_2000,float,Exposure-year canopy minus 2000,percentage points
+theta,float,Frozen out-of-fold conditional response prediction,degrees C per canopy percentage point
+orthogonal_score,float,theta plus residual correction; national augmented score,degrees C per canopy percentage point
+residual_t,float,Treatment residual,canopy percentage points
+residual_y,float,Outcome residual,degrees C
+intercept,float,Local residual-moment intercept,degrees C
+conditional_variance,float,Predicted conditional residual second moment,squared percentage points
+weather_adjusted_lst_reference_mean,float,LST standardized to state-year weather reference,degrees C
+spatial_fold,integer,Frozen outer fold; all periods of tract remain together,category
+spatial_block_id,string,Frozen 25-km spatial block,identifier
+complete_fixed_land_year,boolean,Original completeness flag,eligibility
+balanced_26years,boolean,Original complete annual panel flag,eligibility
+population_2000,float,Whole-tract baseline population,persons
+income_point_usd_2000,float,"Median household income, nominal 1999 value",USD
+poverty_share_2000,float,Baseline poverty share,fraction
+age65plus_share_2000,float,Baseline share aged 65+,fraction
+common_candidate,boolean,Original joint support and headroom eligibility,eligibility
+support_1pp,boolean,One-pp addition within training support,eligibility
+headroom_1pp,boolean,One-pp canopy headroom,eligibility
+D_delta_pp,float,"Within-city Q4-Q1 change contrast, city-equal aggregated",percentage points
+D_2025_pp,float,Q4-Q1 endpoint contrast,percentage points
+D_2000_pp,float,Q4-Q1 baseline contrast,percentage points
+estimate,float,Target identified by key/table; targets are not interchangeable,target dependent
+lower95,float,Lower conditional spatial reference bound,same as estimate
+upper95,float,Upper conditional spatial reference bound,same as estimate
+reference_p,float,Two-sided normal-reference probability,unitless
+holm_p_three_contrasts,float,Within-scale three-social-contrast Holm value,unitless
+bandwidth_km,float,Spatial covariance kernel radius; not cooling distance,kilometres
+income_city_quartile,integer/empty,Fixed within-city baseline Q1-Q4; unassigned remains empty,category
+income_p0,float,"Out-of-fold probability, class 0; class zero unassigned",probability
+income_p1,float,"Out-of-fold probability, class 1; class zero unassigned",probability
+income_p2,float,"Out-of-fold probability, class 2; class zero unassigned",probability
+income_p3,float,"Out-of-fold probability, class 3; class zero unassigned",probability
+income_p4,float,"Out-of-fold probability, class 4; class zero unassigned",probability
+poverty_city_quartile,integer/empty,Fixed within-city baseline Q1-Q4; unassigned remains empty,category
+poverty_p0,float,"Out-of-fold probability, class 0; class zero unassigned",probability
+poverty_p1,float,"Out-of-fold probability, class 1; class zero unassigned",probability
+poverty_p2,float,"Out-of-fold probability, class 2; class zero unassigned",probability
+poverty_p3,float,"Out-of-fold probability, class 3; class zero unassigned",probability
+poverty_p4,float,"Out-of-fold probability, class 4; class zero unassigned",probability
+age65plus_city_quartile,integer/empty,Fixed within-city baseline Q1-Q4; unassigned remains empty,category
+age65plus_p0,float,"Out-of-fold probability, class 0; class zero unassigned",probability
+age65plus_p1,float,"Out-of-fold probability, class 1; class zero unassigned",probability
+age65plus_p2,float,"Out-of-fold probability, class 2; class zero unassigned",probability
+age65plus_p3,float,"Out-of-fold probability, class 3; class zero unassigned",probability
+age65plus_p4,float,"Out-of-fold probability, class 4; class zero unassigned",probability
+centroid_epsg5070_x_m,float,Fixed-land meteorological-grid-weighted model centre,EPSG:5070 metres
+centroid_epsg5070_y_m,float,Fixed-land meteorological-grid-weighted model centre,EPSG:5070 metres
+display_x_epsg5070_m,float,Map interior representative point; distinct from model centre,EPSG:5070 metres
+display_y_epsg5070_m,float,Map interior representative point; distinct from model centre,EPSG:5070 metres

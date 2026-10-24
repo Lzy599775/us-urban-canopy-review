@@ -1,0 +1,5 @@
+﻿Estimand,Records,Tracts,Estimate,95% conditional spatial reference interval
+Geographically adjusted forest,"104,371","42,373",−0.170,"[−0.191, −0.149]"
+Population-weighted augmented score,"104,371","42,373",−0.166,"[−0.190, −0.143]"
+Centered tract fixed-effects response,"104,371","42,373",−0.071,"[−0.108, −0.034]"
+Unadjusted forest,"105,437","42,805",−0.172,—

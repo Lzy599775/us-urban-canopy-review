@@ -1,0 +1,13 @@
+cff-version: 1.2.0
+message: "Please cite the accompanying study when using these materials."
+title: "Long-term urban canopy change and surface thermal conditions in the United States: review materials"
+type: software
+authors:
+  - family-names: Sun
+    given-names: Yaxin
+  - family-names: Li
+    given-names: Na
+  - family-names: Jia
+    given-names: Lei
+  - family-names: Li
+    given-names: Zeyang

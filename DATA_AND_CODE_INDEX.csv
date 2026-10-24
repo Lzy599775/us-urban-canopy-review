@@ -1,0 +1,72 @@
+﻿path,role,bytes
+02_source_data/project/06_logs/NLCD_J1_descriptive_20261015_run01/J1_city_equal_Q4_Q1.csv,Data used by replay entries,8507
+02_source_data/project/06_logs/canopy_cooling_equity_20261009_run01/annual_canopy_equity_row_manifest.csv.gz,Data used by replay entries,32825348
+02_source_data/project/06_logs/figure_attachment_revision_20261020_run01/Figure05/source_data/map_paired_tracts.csv,Data used by replay entries,7225835
+02_source_data/project/06_logs/geo_adjusted_national_orthogonal_20261009_run01/crossfit_scores.csv,Data used by replay entries,23642986
+02_source_data/project/06_logs/geo_adjusted_national_orthogonal_20261009_run01/spatial_covariance_reference.csv,Data used by replay entries,871
+02_source_data/project/06_logs/group_mean_compatibility_repair_20261014_run01/results_csv/all_group_reference_intervals.csv,Data used by replay entries,18970
+02_source_data/project/06_logs/group_mean_compatibility_repair_20261014_run01/results_csv/crossfit_group_probabilities.csv,Data used by replay entries,40728645
+02_source_data/project/06_logs/group_mean_compatibility_repair_20261014_run01/results_csv/estimates_and_corrections.csv,Data used by replay entries,3431
+02_source_data/project/06_logs/group_mean_compatibility_repair_20261014_run01/results_csv/joint_spatial_covariance.npz,Data used by replay entries,6728
+02_source_data/project/06_logs/state_alignment_policy_holdout_20261012_run01/conditional_policy_ranking_summary.csv,Data used by replay entries,7384
+02_source_data/project/06_logs/state_alignment_policy_holdout_20261012_run01/policy_candidate_support_audit.csv,Data used by replay entries,25610355
+02_source_data/project/08_figure图/Fig03_树冠与热环境共同演变/revision02_baseline_and_change_20261019/source_data/city_paired_means.csv,Data used by replay entries,154158
+02_source_data/project/08_figure图/Temporal_E_树冠与温度共同演变/source_data/paired_tract_panel.csv,Data used by replay entries,18155590
+02_source_data/project/08_figure图/Temporal_E_树冠与温度共同演变/source_data/social_fixed_cities.csv,Data used by replay entries,2084
+02_source_data/project/08_figure图/Temporal_E_树冠与温度共同演变/source_data/social_fixed_panel_keys.csv,Data used by replay entries,2473021
+02_source_data/paper_tables/Supplementary_Table_10.csv,Manuscript or supplementary table,2805
+02_source_data/paper_tables/Supplementary_Table_1a.csv,Manuscript or supplementary table,167
+02_source_data/paper_tables/Supplementary_Table_1b.csv,Manuscript or supplementary table,410
+02_source_data/paper_tables/Supplementary_Table_1c.csv,Manuscript or supplementary table,1936
+02_source_data/paper_tables/Supplementary_Table_1d.csv,Manuscript or supplementary table,1136
+02_source_data/paper_tables/Supplementary_Table_2.csv,Manuscript or supplementary table,1545
+02_source_data/paper_tables/Supplementary_Table_3.csv,Manuscript or supplementary table,171
+02_source_data/paper_tables/Supplementary_Table_4.csv,Manuscript or supplementary table,360
+02_source_data/paper_tables/Supplementary_Table_5.csv,Manuscript or supplementary table,755
+02_source_data/paper_tables/Supplementary_Table_6.csv,Manuscript or supplementary table,794
+02_source_data/paper_tables/Supplementary_Table_7.csv,Manuscript or supplementary table,464
+02_source_data/paper_tables/Supplementary_Table_8.csv,Manuscript or supplementary table,434
+02_source_data/paper_tables/Supplementary_Table_9.csv,Manuscript or supplementary table,848
+02_source_data/paper_tables/Table_1.csv,Manuscript or supplementary table,312
+02_source_data/paper_tables/Table_2.csv,Manuscript or supplementary table,392
+02_source_data/paper_tables/Table_3.csv,Manuscript or supplementary table,314
+02_source_data/paper_tables/Table_S9_frozen_continuous_projection_source.csv,Manuscript or supplementary table,4293
+02_source_data/project/05_scripts/aggregate_national_canopy_state.py,Scientific workflow source for review,21496
+02_source_data/project/05_scripts/aggregate_state_same_day_composite_annual.py,Scientific workflow source for review,4918
+02_source_data/project/05_scripts/analyze_canopy_cooling_equity_20261009.py,Scientific workflow source for review,23729
+02_source_data/project/05_scripts/assemble_and_audit_lagged_support_20261008.py,Scientific workflow source for review,18252
+02_source_data/project/05_scripts/audit_temperature_measurement_equity_20261009.py,Scientific workflow source for review,15293
+02_source_data/project/05_scripts/compute_tract_canopy_exact.py,Scientific workflow source for review,13489
+02_source_data/project/05_scripts/extract_national_census_baseline.py,Scientific workflow source for review,15695
+02_source_data/project/05_scripts/freeze_national_protocol_and_spatial_folds_20261008.py,Scientific workflow source for review,10651
+02_source_data/project/05_scripts/landsat_temperature_quality.py,Scientific workflow source for review,2334
+02_source_data/project/05_scripts/match_national_gridmet_observation_dates_20261008.py,Scientific workflow source for review,31579
+02_source_data/project/05_scripts/prepare_urban_land_weights.py,Scientific workflow source for review,10102
+02_source_data/project/05_scripts/rebuild_primary_weather_outcome_20261008.py,Scientific workflow source for review,10989
+02_source_data/project/05_scripts/repair_geographic_measurement_support_20261009.py,Scientific workflow source for review,13164
+02_source_data/project/05_scripts/run_baseline_equity_support_20261011.py,Scientific workflow source for review,19665
+02_source_data/project/05_scripts/run_geo_adjusted_national_orthogonal_20261009.py,Scientific workflow source for review,20676
+02_source_data/project/05_scripts/run_state_lst_same_day_composite_resumable.py,Scientific workflow source for review,26826
+02_source_data/project/05_scripts/run_state_lst_window_diagnostic_blocked.py,Scientific workflow source for review,45875
+02_source_data/project/05_scripts/spatial_mean_slope_inference_20261009.py,Scientific workflow source for review,21711
+02_source_data/project/05_scripts/validate_geo_adjusted_national_orthogonal_20261009.py,Scientific workflow source for review,8441
+02_source_data/project/06_logs/figure_attachment_revision_20261020_run01/Figure01/figure01_revision07.py,Scientific workflow source for review,17078
+02_source_data/project/06_logs/figure_attachment_revision_20261020_run01/Figure02/figure02_revision01.py,Scientific workflow source for review,17168
+02_source_data/project/06_logs/figure_attachment_revision_20261020_run01/Figure05/draw_figure05.py,Scientific workflow source for review,15398
+02_source_data/project/06_logs/geographic_panel_spatial_20261011_run01/run_geographic_panel_spatial.py,Scientific workflow source for review,8458
+02_source_data/project/06_logs/group_mean_compatibility_repair_20261014_run01/complete_group_outputs.py,Scientific workflow source for review,8137
+02_source_data/project/06_logs/group_mean_compatibility_repair_20261014_run01/run_group_mean_repair.py,Scientific workflow source for review,23069
+02_source_data/project/06_logs/group_mean_compatibility_repair_20261014_run01/validate_group_mean_repair.py,Scientific workflow source for review,10794
+02_source_data/project/06_logs/NLCD_J1_descriptive_20261015_run01/run_J1.py,Scientific workflow source for review,14266
+02_source_data/project/06_logs/NLCD_J1_descriptive_20261015_run01/validate_J1.py,Scientific workflow source for review,8650
+02_source_data/project/06_logs/population_weighted_equity_20261011_run01/run_population_weighted.py,Scientific workflow source for review,14716
+02_source_data/project/08_figure图/Fig01_全国主分析样本空间分布/figure01.py,Scientific workflow source for review,24949
+02_source_data/project/08_figure图/Fig03_树冠与热环境共同演变/revision02_baseline_and_change_20261019/draw_figure03.py,Scientific workflow source for review,16638
+02_source_data/project/08_figure图/Fig04_全国响应与估计对象比较/revision03_atlas45/figure04_atlas.py,Scientific workflow source for review,27177
+02_source_data/project/08_figure图/Fig04_全国响应与估计对象比较/revision04_national_response_social_groups_20261019/draw_figure04.py,Scientific workflow source for review,19848
+02_source_data/project/08_figure图/Fig06_条件优先排序与对象组成/revision01_priority_selection_20261019/draw_figure06.py,Scientific workflow source for review,13141
+02_source_data/project/08_figure图/Fig07_候选规则与对象组成/revision04_statistical_panels/figure07.py,Scientific workflow source for review,22629
+02_source_data/project/08_figure图/Temporal_AB_全国与45城年度轨迹/temporal_figures.py,Scientific workflow source for review,19426
+02_source_data/project/08_figure图/Temporal_CD_小区图集与三期热环境/temporal_cd.py,Scientific workflow source for review,25526
+02_source_data/project/08_figure图/Temporal_E_树冠与温度共同演变/coevolution.py,Scientific workflow source for review,24994
+02_source_data/project/08_figure图/Temporal_F_差距变化来源/gap_sources.py,Scientific workflow source for review,14324

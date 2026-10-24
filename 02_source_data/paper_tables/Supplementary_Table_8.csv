@@ -1,0 +1,7 @@
+﻿Rule,Selected records,Unique tracts,Prediction (°C/pp),Poverty (%),Income (1999 US$)
+Stronger response,"10,437","4,198",−0.265,25.1,"32,551"
+High poverty,"10,437","4,221",−0.198,42.2,"19,498"
+Low income,"10,437","4,324",−0.198,39.7,"17,838"
+High age 65+ share,"10,437","4,275",−0.179,10.0,"44,992"
+Low baseline canopy,"10,437","3,637",−0.170,19.4,"40,600"
+Large population,"10,437","4,217",−0.148,11.5,"50,848"

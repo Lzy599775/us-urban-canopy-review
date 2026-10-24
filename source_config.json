@@ -1,0 +1,7 @@
+{
+  "schema": 1,
+  "project_root": "02_source_data/project",
+  "external_paths": {
+    "reference_notebook": "external_inputs/causal_reference.ipynb"
+  }
+}
