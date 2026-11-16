@@ -1,0 +1,106 @@
+Reference footprint,Baseline social dimension,Period,Q1 tracts,Q4 tracts,Reference Q4−Q1 (pp),NLCD Q4−Q1 (pp),Same direction
+"Boston, MA--NH--RI",Income quartile,Early endpoint,98,16,11.4259,11.8776,Yes
+"Boston, MA--NH--RI",Income quartile,Late endpoint,98,16,13.2493,13.3444,Yes
+"Boston, MA--NH--RI",Income quartile,Net change,98,16,1.8235,1.4669,Yes
+"Boston, MA--NH--RI",Poverty quartile,Early endpoint,7,112,-6.6272,-16.3090,Yes
+"Boston, MA--NH--RI",Poverty quartile,Late endpoint,7,112,-5.6576,-16.3234,Yes
+"Boston, MA--NH--RI",Poverty quartile,Net change,7,112,0.9697,-0.0144,No
+"Boston, MA--NH--RI",Older-population-share quartile,Early endpoint,77,31,1.2073,5.6362,Yes
+"Boston, MA--NH--RI",Older-population-share quartile,Late endpoint,77,31,1.0609,6.5834,Yes
+"Boston, MA--NH--RI",Older-population-share quartile,Net change,77,31,-0.1464,0.9471,No
+"Providence, RI--MA",Income quartile,Early endpoint,32,1,31.5328,27.2865,Yes
+"Providence, RI--MA",Income quartile,Late endpoint,32,1,29.8540,26.8842,Yes
+"Providence, RI--MA",Income quartile,Net change,32,1,-1.6787,-0.4023,Yes
+"Providence, RI--MA",Poverty quartile,Early endpoint,2,34,-20.7469,-26.1813,Yes
+"Providence, RI--MA",Poverty quartile,Late endpoint,2,34,-22.8680,-25.1416,Yes
+"Providence, RI--MA",Poverty quartile,Net change,2,34,-2.1211,1.0397,No
+"Providence, RI--MA",Older-population-share quartile,Early endpoint,23,12,8.9946,20.5558,Yes
+"Providence, RI--MA",Older-population-share quartile,Late endpoint,23,12,10.6945,21.3714,Yes
+"Providence, RI--MA",Older-population-share quartile,Net change,23,12,1.6998,0.8156,Yes
+"New York--Newark, NY--NJ--CT",Income quartile,Early endpoint,844,171,5.3654,6.8748,Yes
+"New York--Newark, NY--NJ--CT",Income quartile,Late endpoint,844,171,3.8899,6.3815,Yes
+"New York--Newark, NY--NJ--CT",Income quartile,Net change,844,171,-1.4755,-0.4933,Yes
+"New York--Newark, NY--NJ--CT",Poverty quartile,Early endpoint,130,879,-8.1466,-11.5717,Yes
+"New York--Newark, NY--NJ--CT",Poverty quartile,Late endpoint,130,879,-6.7741,-10.5700,Yes
+"New York--Newark, NY--NJ--CT",Poverty quartile,Net change,130,879,1.3726,1.0017,Yes
+"New York--Newark, NY--NJ--CT",Older-population-share quartile,Early endpoint,678,500,4.9229,4.7486,Yes
+"New York--Newark, NY--NJ--CT",Older-population-share quartile,Late endpoint,678,500,4.0956,4.4080,Yes
+"New York--Newark, NY--NJ--CT",Older-population-share quartile,Net change,678,500,-0.8274,-0.3406,Yes
+"Philadelphia, PA--NJ--DE--MD",Income quartile,Early endpoint,240,25,16.7042,34.2288,Yes
+"Philadelphia, PA--NJ--DE--MD",Income quartile,Late endpoint,240,25,16.1692,34.4853,Yes
+"Philadelphia, PA--NJ--DE--MD",Income quartile,Net change,240,25,-0.5350,0.2565,No
+"Philadelphia, PA--NJ--DE--MD",Poverty quartile,Early endpoint,26,229,-14.9652,-29.4997,Yes
+"Philadelphia, PA--NJ--DE--MD",Poverty quartile,Late endpoint,26,229,-14.5936,-29.3568,Yes
+"Philadelphia, PA--NJ--DE--MD",Poverty quartile,Net change,26,229,0.3716,0.1429,Yes
+"Philadelphia, PA--NJ--DE--MD",Older-population-share quartile,Early endpoint,101,109,1.2695,4.4465,Yes
+"Philadelphia, PA--NJ--DE--MD",Older-population-share quartile,Late endpoint,101,109,0.9578,4.0377,Yes
+"Philadelphia, PA--NJ--DE--MD",Older-population-share quartile,Net change,101,109,-0.3116,-0.4088,Yes
+"Detroit, MI",Income quartile,Late endpoint,234,10,-4.6895,1.5162,No
+"Detroit, MI",Poverty quartile,Late endpoint,5,245,24.5500,8.1940,Yes
+"Detroit, MI",Older-population-share quartile,Late endpoint,113,56,-8.5956,-4.1163,Yes
+"Cleveland, OH",Income quartile,Early endpoint,151,108,23.9069,20.5345,Yes
+"Cleveland, OH",Income quartile,Late endpoint,151,108,20.7039,18.9682,Yes
+"Cleveland, OH",Income quartile,Net change,151,108,-3.2030,-1.5663,Yes
+"Cleveland, OH",Poverty quartile,Early endpoint,105,151,-20.6296,-17.6205,Yes
+"Cleveland, OH",Poverty quartile,Late endpoint,105,151,-17.8737,-16.1930,Yes
+"Cleveland, OH",Poverty quartile,Net change,105,151,2.7559,1.4276,Yes
+"Cleveland, OH",Older-population-share quartile,Early endpoint,124,135,3.8523,2.9099,Yes
+"Cleveland, OH",Older-population-share quartile,Late endpoint,124,135,3.8955,2.2416,Yes
+"Cleveland, OH",Older-population-share quartile,Net change,124,135,0.0432,-0.6684,No
+"Indianapolis, IN",Income quartile,Late endpoint,68,43,11.8592,10.2333,Yes
+"Indianapolis, IN",Poverty quartile,Late endpoint,42,68,-10.2521,-8.6529,Yes
+"Indianapolis, IN",Older-population-share quartile,Late endpoint,56,62,5.4544,2.1813,Yes
+"Minneapolis--St. Paul, MN",Income quartile,Late endpoint,81,14,25.3662,23.5052,Yes
+"Minneapolis--St. Paul, MN",Poverty quartile,Late endpoint,10,81,-24.4913,-24.3232,Yes
+"Minneapolis--St. Paul, MN",Older-population-share quartile,Late endpoint,30,27,12.5822,15.2304,Yes
+"Washington, DC--VA--MD",Income quartile,Early endpoint,20,81,12.9651,21.1529,Yes
+"Washington, DC--VA--MD",Income quartile,Late endpoint,20,81,13.0723,21.2720,Yes
+"Washington, DC--VA--MD",Income quartile,Net change,20,81,0.1072,0.1191,Yes
+"Washington, DC--VA--MD",Poverty quartile,Early endpoint,60,23,-12.7792,-23.6875,Yes
+"Washington, DC--VA--MD",Poverty quartile,Late endpoint,60,23,-11.7518,-23.7953,Yes
+"Washington, DC--VA--MD",Poverty quartile,Net change,60,23,1.0273,-0.1078,No
+"Washington, DC--VA--MD",Older-population-share quartile,Early endpoint,43,77,3.9814,0.3398,Yes
+"Washington, DC--VA--MD",Older-population-share quartile,Late endpoint,43,77,3.9981,-0.8062,No
+"Washington, DC--VA--MD",Older-population-share quartile,Net change,43,77,0.0167,-1.1461,No
+"Richmond, VA",Income quartile,Early endpoint,40,7,22.7879,26.0662,Yes
+"Richmond, VA",Income quartile,Late endpoint,40,7,22.9218,22.3676,Yes
+"Richmond, VA",Income quartile,Net change,40,7,0.1339,-3.6986,No
+"Richmond, VA",Poverty quartile,Early endpoint,8,41,-28.7316,-31.4751,Yes
+"Richmond, VA",Poverty quartile,Late endpoint,8,41,-26.0047,-27.1338,Yes
+"Richmond, VA",Poverty quartile,Net change,8,41,2.7268,4.3413,Yes
+"Richmond, VA",Older-population-share quartile,Early endpoint,15,28,2.0838,9.2485,Yes
+"Richmond, VA",Older-population-share quartile,Late endpoint,15,28,1.9119,9.4064,Yes
+"Richmond, VA",Older-population-share quartile,Net change,15,28,-0.1719,0.1579,No
+"Charlotte, NC--SC",Income quartile,Early endpoint,40,31,14.7597,15.7468,Yes
+"Charlotte, NC--SC",Income quartile,Late endpoint,40,31,12.8013,16.4203,Yes
+"Charlotte, NC--SC",Income quartile,Net change,40,31,-1.9584,0.6735,No
+"Charlotte, NC--SC",Poverty quartile,Early endpoint,29,39,-16.2337,-17.9619,Yes
+"Charlotte, NC--SC",Poverty quartile,Late endpoint,29,39,-14.8157,-18.9110,Yes
+"Charlotte, NC--SC",Poverty quartile,Net change,29,39,1.4179,-0.9491,No
+"Charlotte, NC--SC",Older-population-share quartile,Early endpoint,36,34,6.0969,3.4500,Yes
+"Charlotte, NC--SC",Older-population-share quartile,Late endpoint,36,34,4.1832,2.2390,Yes
+"Charlotte, NC--SC",Older-population-share quartile,Net change,36,34,-1.9137,-1.2110,Yes
+"Louisville, KY--IN",Income quartile,Early endpoint,47,36,12.0460,12.6439,Yes
+"Louisville, KY--IN",Income quartile,Late endpoint,47,36,12.9968,11.3150,Yes
+"Louisville, KY--IN",Income quartile,Net change,47,36,0.9508,-1.3289,No
+"Louisville, KY--IN",Poverty quartile,Early endpoint,38,49,-12.7051,-13.2032,Yes
+"Louisville, KY--IN",Poverty quartile,Late endpoint,38,49,-13.4367,-11.8299,Yes
+"Louisville, KY--IN",Poverty quartile,Net change,38,49,-0.7316,1.3732,No
+"Louisville, KY--IN",Older-population-share quartile,Early endpoint,34,47,3.7513,4.2282,Yes
+"Louisville, KY--IN",Older-population-share quartile,Late endpoint,34,47,2.9478,3.4876,Yes
+"Louisville, KY--IN",Older-population-share quartile,Net change,34,47,-0.8035,-0.7406,Yes
+"Phoenix--Mesa, AZ",Income quartile,Late endpoint,156,156,5.6804,1.4674,Yes
+"Phoenix--Mesa, AZ",Poverty quartile,Late endpoint,157,155,-4.3360,-1.1635,Yes
+"Phoenix--Mesa, AZ",Older-population-share quartile,Late endpoint,156,153,1.4894,1.0784,Yes
+"Albuquerque, NM",Income quartile,Late endpoint,37,37,0.3554,2.7893,Yes
+"Albuquerque, NM",Poverty quartile,Late endpoint,38,37,1.8618,-2.5142,No
+"Albuquerque, NM",Older-population-share quartile,Late endpoint,36,38,6.9600,3.4237,Yes
+"Seattle, WA",Income quartile,Early endpoint,45,14,15.7322,18.3465,Yes
+"Seattle, WA",Income quartile,Late endpoint,45,14,15.9408,18.5467,Yes
+"Seattle, WA",Income quartile,Net change,45,14,0.2086,0.2002,Yes
+"Seattle, WA",Poverty quartile,Early endpoint,9,53,-16.0275,-16.7516,Yes
+"Seattle, WA",Poverty quartile,Late endpoint,9,53,-15.8129,-16.8629,Yes
+"Seattle, WA",Poverty quartile,Net change,9,53,0.2147,-0.1113,No
+"Seattle, WA",Older-population-share quartile,Early endpoint,13,50,6.0202,8.7577,Yes
+"Seattle, WA",Older-population-share quartile,Late endpoint,13,50,6.2276,8.9932,Yes
+"Seattle, WA",Older-population-share quartile,Net change,13,50,0.2074,0.2355,Yes

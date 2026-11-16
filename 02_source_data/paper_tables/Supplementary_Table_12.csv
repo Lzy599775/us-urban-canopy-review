@@ -1,0 +1,8 @@
+Category,NLCD n,NLCD (%),Science n,Science (%)
+Gain / stronger negative response,"9,929",23.435,"5,840",13.784
+Loss / stronger negative response,"11,237",26.522,"15,335",36.194
+Gain / weaker negative response,"11,835",27.933,"7,567",17.860
+Loss / weaker negative response,"9,321",22.000,"13,607",32.115
+Zero net change,27,0.064,0,0.000
+Positive predicted response,20,0.047,20,0.047
+Total,"42,369",100.000,"42,369",100.000

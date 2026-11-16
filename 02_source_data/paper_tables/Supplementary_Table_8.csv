@@ -1,4 +1,4 @@
-﻿Rule,Selected records,Unique tracts,Prediction (°C/pp),Poverty (%),Income (1999 US$)
+Rule,Selected records,Unique tracts,Prediction (°C/pp),Poverty (%),Income (1999 US$)
 Stronger response,"10,437","4,198",−0.265,25.1,"32,551"
 High poverty,"10,437","4,221",−0.198,42.2,"19,498"
 Low income,"10,437","4,324",−0.198,39.7,"17,838"

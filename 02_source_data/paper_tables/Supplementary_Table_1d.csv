@@ -1,4 +1,4 @@
-﻿Estimate,Radius (km),Records,Estimate,95% conditional spatial reference interval,Pointwise p,Holm p
+Estimate,Radius (km),Records,Estimate,95% conditional spatial reference interval,Pointwise p,Holm p
 Response at interaction center,100,"104,371",−0.070982,"[−0.105879, −0.036086]",6.699e-05,—
 Income interaction,100,"104,371",0.001611,"[−0.025920, 0.029141]",0.9087,1
 Poverty interaction,100,"104,371",−0.019592,"[−0.044928, 0.005744]",0.1296,0.3889

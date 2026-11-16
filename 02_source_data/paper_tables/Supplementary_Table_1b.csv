@@ -1,4 +1,4 @@
-﻿Estimate,Radius (km),Records,Estimate,95% conditional spatial reference interval,Pointwise p,Holm p
+Estimate,Radius (km),Records,Estimate,95% conditional spatial reference interval,Pointwise p,Holm p
 National average conditional response,100,"104,371",−0.169649,"[−0.188970, −0.150328]",—,—
 National average conditional response,200,"104,371",−0.169649,"[−0.190628, −0.148670]",—,—
 National average conditional response,400,"104,371",−0.169649,"[−0.192287, −0.147011]",—,—

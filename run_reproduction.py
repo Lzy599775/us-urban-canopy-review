@@ -10,5 +10,8 @@ def main():
   subprocess.run([sys.executable,'-I','-X','utf8',str(root/'03_code'/(name+'.py')),'--package',str(root),'--output',str(out/name)],check=True)
  receipts=[json.loads((out/n/'receipt.json').read_text()) for n in ['replay_core','replay_figure_values','replay_tables']]
  if [r['checks'] for r in receipts]!=[342,234,26]:raise ValueError('Unexpected check count')
- print('Completed 602 numerical checks. Results: '+str(out))
+ subprocess.run([sys.executable,'-I','-X','utf8',str(root/'03_code/replay_measurement.py'),'--package',str(root),'--output',str(out/'replay_measurement')],check=True)
+ measurement=json.loads((out/'replay_measurement'/'summary.json').read_text())
+ if measurement['status']!='PASS' or measurement['comparisons']!=635:raise ValueError('Unexpected measurement check result')
+ print('Completed 602 numerical checks and 635 measurement-table comparisons. Results: '+str(out))
 if __name__=='__main__':main()

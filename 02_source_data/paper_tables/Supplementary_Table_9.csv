@@ -1,4 +1,4 @@
-﻿Estimate,Radius (km),Records,Estimate,95% conditional spatial reference interval,Pointwise p,Holm p
+Estimate,Radius (km),Records,Estimate,95% conditional spatial reference interval,Pointwise p,Holm p
 Income projection,100,"104,371",−0.003296,"[−0.009747, 0.003155]",0.3166,—
 Poverty projection,100,"104,371",−0.021937,"[−0.039775, −0.004099]",0.01594,—
 Age projection,100,"104,371",−0.011610,"[−0.028261, 0.005040]",0.1717,—

@@ -1,0 +1,4 @@
+Dimension,Out-of-fold Brier range,Training-prevalence benchmark range,Folds
+Income,0.3803—0.4602,0.7525—0.7557,5
+Poverty,0.3717—0.4004,0.7527—0.7552,5
+Age 65+ share,0.4196—0.4657,0.7528—0.7541,5

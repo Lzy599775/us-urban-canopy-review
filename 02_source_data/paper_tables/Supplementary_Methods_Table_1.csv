@@ -1,0 +1,4 @@
+Model,Trees,Maximum depth,Minimum leaf size,Other fixed settings
+"Treatment, outcome and second-moment forests",200,12,5,seed=20260912
+Causal forest,"1,000",Unlimited,15,Minimum split 10; sampling fraction 0.45; honest splitting; local intercept
+Conditional group-probability forest,200,12,5,Five classes; four X variables; no class weights

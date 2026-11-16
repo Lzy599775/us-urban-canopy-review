@@ -1,0 +1,21 @@
+Estimand,Period,Start year,End year,Start value,End value,Change (pp)
+"Older-population-share Q4−Q1 gap, equal-area urbanized areas",Pre-transition,2000,2015,1.0114,0.6182,-0.3931
+"Older-population-share Q4−Q1 gap, equal-area urbanized areas",Transition year,2015,2016,0.6182,0.5336,-0.0846
+"Older-population-share Q4−Q1 gap, equal-area urbanized areas",Post-transition,2016,2025,0.5336,0.0200,-0.5136
+"Older-population-share Q4−Q1 gap, equal-area urbanized areas",Full period,2000,2025,1.0114,0.0200,-0.9914
+Older-population-share Q4 pooled tract mean,Pre-transition,2000,2015,20.6849,20.9715,0.2866
+Older-population-share Q4 pooled tract mean,Transition year,2015,2016,20.9715,21.0536,0.0820
+Older-population-share Q4 pooled tract mean,Post-transition,2016,2025,21.0536,20.0908,-0.9628
+Older-population-share Q4 pooled tract mean,Full period,2000,2025,20.6849,20.0908,-0.5941
+"Income Q4−Q1 gap, equal-area urbanized areas",Pre-transition,2000,2015,8.3764,8.9411,0.5647
+"Income Q4−Q1 gap, equal-area urbanized areas",Transition year,2015,2016,8.9411,9.1731,0.2319
+"Income Q4−Q1 gap, equal-area urbanized areas",Post-transition,2016,2025,9.1731,9.4402,0.2671
+"Income Q4−Q1 gap, equal-area urbanized areas",Full period,2000,2025,8.3764,9.4402,1.0637
+National pooled tract mean,Pre-transition,2000,2015,19.7652,20.3562,0.5910
+National pooled tract mean,Transition year,2015,2016,20.3562,20.4997,0.1435
+National pooled tract mean,Post-transition,2016,2025,20.4997,19.8658,-0.6339
+National pooled tract mean,Full period,2000,2025,19.7652,19.8658,0.1006
+"Poverty Q4−Q1 gap, equal-area urbanized areas",Pre-transition,2000,2015,-7.3016,-7.7336,-0.4321
+"Poverty Q4−Q1 gap, equal-area urbanized areas",Transition year,2015,2016,-7.7336,-7.9315,-0.1978
+"Poverty Q4−Q1 gap, equal-area urbanized areas",Post-transition,2016,2025,-7.9315,-8.1468,-0.2153
+"Poverty Q4−Q1 gap, equal-area urbanized areas",Full period,2000,2025,-7.3016,-8.1468,-0.8452

@@ -1,0 +1,11 @@
+# Canopy measurement source data
+
+`tract_product_comparison.csv` contains 46,424 fixed census tracts with 2000 and 2025 NLCD TCC and Science TCC measurements on the same land support. The baseline social quartiles are defined within each urbanized area. National pooled tract means and equal-area within-city Q4−Q1 differences are distinct summaries. `product_difference_summary.csv` records both targets and their denominators. Supplementary Table 11 reports selected values.
+
+`annual_target_series.csv` and `stage_contributions.csv` summarize the frozen NLCD TCC annual panel. `annual_stage_results.csv` supplies the 2000–2015, 2015–2016 and 2016–2025 periods in Supplementary Table 17. Periods use the same fixed census tracts and baseline groups; their changes add to the 2000–2025 endpoint change.
+
+`all_matched_tract_results.csv` contains tract-level canopy values within the mapped local-reference footprints. `local_city_comparison.csv`, `local_social_gap_comparison.csv` and `local_social_group_levels.csv` summarize the 10 paired-date and five single-date local-reference areas. Reference and NLCD values are compared at each area's actual date and common mapped support. These areas are selected reference footprints; they are not a probability sample of all US cities. Supplementary Tables 14–16 report the corresponding summaries.
+
+The existing `map_paired_tracts.csv` contains the 42,369 tracts in Figure 5, with frozen out-of-fold response predictions and NLCD canopy-change classes. `replay_measurement.py` joins this file to `tract_product_comparison.csv` by state and tract ID. It substitutes Science TCC canopy change while keeping the response predictions and classification threshold fixed. Supplementary Table 12 reports the class counts.
+
+The four scripts in `03_code/upstream_measurement/` document product comparison, annual summaries and local-reference assembly. These upstream stages require the original raster archives, fixed-land weight matrices and source geometries specified in the scripts. The executable replay uses the processed data supplied here. Supplementary Table 18 describes the source coverage of the 45-city display set; it is not a statistical summary of the 23-city window interpretation record.

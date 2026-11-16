@@ -1,7 +1,13 @@
-﻿Social dimension,Group,2000 (%),2025 (%),Net change (pp),Change in gap (pp)
+Characteristic,Quartile,2000 (%),2025 (%),Net change (pp),Q4−Q1 net-change difference (pp)
 Income,Q1,12.706,12.797,0.091,
+Income,Q2,17.811,17.572,−0.240,
+Income,Q3,21.799,21.775,−0.024,
 Income,Q4,26.572,27.147,0.575,0.484
-Poverty,Q1,25.692,26.124,0.433,
-Poverty,Q4,12.916,12.981,0.065,−0.368
-Age 65+ share,Q1,17.749,18.742,0.992,
-Age 65+ share,Q4,20.685,20.091,−0.594,−1.586
+Poverty rate,Q1,25.692,26.124,0.433,
+Poverty rate,Q2,22.217,22.281,0.065,
+Poverty rate,Q3,17.949,17.767,−0.182,
+Poverty rate,Q4,12.916,12.981,0.065,−0.368
+Older-adult share,Q1,17.749,18.742,0.992,
+Older-adult share,Q2,19.714,19.968,0.254,
+Older-adult share,Q3,20.691,20.412,−0.280,
+Older-adult share,Q4,20.685,20.091,−0.594,−1.586

@@ -1,0 +1,14 @@
+Target,NLCD (pp),Science (pp),Support
+National tract mean,+0.1006,-1.2661,"46,424 tracts"
+"Income Q4−Q1, equal areas",+1.0637,+0.8265,448 areas
+"Poverty Q4−Q1, equal areas",-0.8452,-0.6164,448 areas
+"Age ≥65 share Q4−Q1, equal areas",-0.9914,-1.1330,448 areas
+"Income Q1, pooled tracts",+0.0906,-0.9782,"11,609 tracts"
+"Income Q4, pooled tracts",+0.5750,-1.1073,"11,483 tracts"
+"Income Q4−Q1, pooled tracts",+0.4844,-0.1291,"Q1 11,609; Q4 11,483"
+"Poverty Q1, pooled tracts",+0.4328,-1.2303,"11,634 tracts"
+"Poverty Q4, pooled tracts",+0.0647,-1.0067,"11,529 tracts"
+"Poverty Q4−Q1, pooled tracts",-0.3681,+0.2236,"Q1 11,634; Q4 11,529"
+"Age ≥65 share Q1, pooled tracts",+0.9923,-0.3213,"11,668 tracts"
+"Age ≥65 share Q4, pooled tracts",-0.5941,-1.9938,"11,503 tracts"
+"Age ≥65 share Q4−Q1, pooled tracts",-1.5863,-1.6725,"Q1 11,668; Q4 11,503"

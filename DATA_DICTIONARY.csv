@@ -60,3 +60,21 @@ centroid_epsg5070_x_m,float,Fixed-land meteorological-grid-weighted model centre
 centroid_epsg5070_y_m,float,Fixed-land meteorological-grid-weighted model centre,EPSG:5070 metres
 display_x_epsg5070_m,float,Map interior representative point; distinct from model centre,EPSG:5070 metres
 display_y_epsg5070_m,float,Map interior representative point; distinct from model centre,EPSG:5070 metres
+fixed_land_m2,float,Area of fixed nonwater land within the tract and year-2000 urbanized area,square metres
+nlcd_2000_full_cover,float,NLCD TCC baseline cover on fixed land,percent
+nlcd_2025_full_cover,float,NLCD TCC endpoint cover on fixed land,percent
+science_2000_full_cover,float,Science TCC baseline cover on fixed land,percent
+science_2025_full_cover,float,Science TCC endpoint cover on fixed land,percent
+common_4way_valid_fraction,float,Fraction of fixed land valid in both products at both endpoints,fraction
+nlcd_change_full_pp,float,NLCD TCC 2025 minus 2000 fixed-land cover,percentage points
+science_change_full_pp,float,Science TCC 2025 minus 2000 fixed-land cover,percentage points
+reference_early,float,Local-reference canopy cover at the first observed date on matched support,percent
+reference_late,float,Local-reference canopy cover at the second observed date on matched support,percent
+reference_change,float,Local-reference late minus early canopy cover,percentage points
+nlcd_early,float,NLCD TCC at first observed date on matched support,percent
+nlcd_late,float,NLCD TCC at second observed date on matched support,percent
+nlcd_change,float,NLCD TCC late minus early cover on matched support,percentage points
+common_area_m2,float,Matched mapped area within a local-reference footprint,square metres
+fraction_ua_land,float,Matched local-reference footprint as a fraction of fixed urbanized-area land,fraction
+reference_q4_minus_q1,float,Within-footprint difference between baseline Q4 and Q1 mean local-reference canopy cover,percentage points
+nlcd_q4_minus_q1,float,Within-footprint difference between baseline Q4 and Q1 mean matched NLCD TCC cover,percentage points

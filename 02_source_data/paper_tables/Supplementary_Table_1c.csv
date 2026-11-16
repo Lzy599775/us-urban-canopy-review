@@ -1,4 +1,4 @@
-﻿Estimate,Radius (km),Records,Estimate,95% conditional spatial reference interval,Pointwise p,Holm p
+Estimate,Radius (km),Records,Estimate,95% conditional spatial reference interval,Pointwise p,Holm p
 National weighted score,100,"104,371",−0.166496,"[−0.187908, −0.145084]",1.905e-52,—
 Income contrast,100,"52,030",0.076726,"[0.035523, 0.117930]",0.0002625,0.000525
 Poverty contrast,100,"52,017",−0.092236,"[−0.133441, −0.051031]",1.148e-05,3.443e-05
