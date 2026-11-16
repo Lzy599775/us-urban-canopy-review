@@ -1,113 +1,113 @@
-path,role,bytes
-.gitignore,Documentation or configuration,46
-02_source_data/measurement/all_matched_tract_results.csv,Processed canopy measurement data,1784270
-02_source_data/measurement/annual_stage_results.csv,Processed canopy measurement data,2228
-02_source_data/measurement/annual_target_series.csv,Processed canopy measurement data,45441
-02_source_data/measurement/local_city_comparison.csv,Processed canopy measurement data,11588
-02_source_data/measurement/local_social_gap_comparison.csv,Processed canopy measurement data,27247
-02_source_data/measurement/local_social_group_levels.csv,Processed canopy measurement data,31430
-02_source_data/measurement/product_difference_summary.csv,Processed canopy measurement data,25030
-02_source_data/measurement/stage_contributions.csv,Processed canopy measurement data,12489
-02_source_data/measurement/tract_product_comparison.csv,Processed canopy measurement data,20179332
-02_source_data/paper_tables/Supplementary_Methods_Table_1.csv,Main or supplementary table,345
-02_source_data/paper_tables/Supplementary_Methods_Table_2.csv,Main or supplementary table,211
-02_source_data/paper_tables/Supplementary_Methods_Table_3.csv,Main or supplementary table,203
-02_source_data/paper_tables/Supplementary_Table_10.csv,Main or supplementary table,2802
-02_source_data/paper_tables/Supplementary_Table_11.csv,Main or supplementary table,879
-02_source_data/paper_tables/Supplementary_Table_12.csv,Main or supplementary table,430
-02_source_data/paper_tables/Supplementary_Table_13.csv,Main or supplementary table,1838
-02_source_data/paper_tables/Supplementary_Table_14.csv,Main or supplementary table,1342
-02_source_data/paper_tables/Supplementary_Table_15.csv,Main or supplementary table,983
-02_source_data/paper_tables/Supplementary_Table_16.csv,Main or supplementary table,8860
-02_source_data/paper_tables/Supplementary_Table_17.csv,Main or supplementary table,1981
-02_source_data/paper_tables/Supplementary_Table_18.csv,Main or supplementary table,796
-02_source_data/paper_tables/Supplementary_Table_1a.csv,Main or supplementary table,164
-02_source_data/paper_tables/Supplementary_Table_1b.csv,Main or supplementary table,407
-02_source_data/paper_tables/Supplementary_Table_1c.csv,Main or supplementary table,1933
-02_source_data/paper_tables/Supplementary_Table_1d.csv,Main or supplementary table,1133
-02_source_data/paper_tables/Supplementary_Table_2.csv,Main or supplementary table,1542
-02_source_data/paper_tables/Supplementary_Table_3.csv,Main or supplementary table,168
-02_source_data/paper_tables/Supplementary_Table_4.csv,Main or supplementary table,357
-02_source_data/paper_tables/Supplementary_Table_5.csv,Main or supplementary table,752
-02_source_data/paper_tables/Supplementary_Table_6.csv,Main or supplementary table,791
-02_source_data/paper_tables/Supplementary_Table_7.csv,Main or supplementary table,461
-02_source_data/paper_tables/Supplementary_Table_8.csv,Main or supplementary table,431
-02_source_data/paper_tables/Supplementary_Table_9.csv,Main or supplementary table,845
-02_source_data/paper_tables/Table_1.csv,Main or supplementary table,582
-02_source_data/paper_tables/Table_2.csv,Main or supplementary table,559
-02_source_data/paper_tables/Table_3.csv,Main or supplementary table,317
-02_source_data/paper_tables/Table_S9_frozen_continuous_projection_source.csv,Main or supplementary table,4293
-02_source_data/project/05_scripts/aggregate_national_canopy_state.py,Scientific source code or processed analysis input,21897
-02_source_data/project/05_scripts/aggregate_state_same_day_composite_annual.py,Scientific source code or processed analysis input,5005
-02_source_data/project/05_scripts/analyze_canopy_cooling_equity_20261009.py,Scientific source code or processed analysis input,24064
-02_source_data/project/05_scripts/assemble_and_audit_lagged_support_20261008.py,Scientific source code or processed analysis input,18514
-02_source_data/project/05_scripts/audit_temperature_measurement_equity_20261009.py,Scientific source code or processed analysis input,15548
-02_source_data/project/05_scripts/compute_tract_canopy_exact.py,Scientific source code or processed analysis input,13489
-02_source_data/project/05_scripts/extract_national_census_baseline.py,Scientific source code or processed analysis input,15964
-02_source_data/project/05_scripts/freeze_national_protocol_and_spatial_folds_20261008.py,Scientific source code or processed analysis input,10808
-02_source_data/project/05_scripts/landsat_temperature_quality.py,Scientific source code or processed analysis input,2380
-02_source_data/project/05_scripts/match_national_gridmet_observation_dates_20261008.py,Scientific source code or processed analysis input,32088
-02_source_data/project/05_scripts/prepare_urban_land_weights.py,Scientific source code or processed analysis input,10270
-02_source_data/project/05_scripts/primary_canopy_model_candidate_20261008.json,Scientific source code or processed analysis input,1374
-02_source_data/project/05_scripts/primary_canopy_model_geo_adjusted_20261009.json,Scientific source code or processed analysis input,1488
-02_source_data/project/05_scripts/rebuild_primary_weather_outcome_20261008.py,Scientific source code or processed analysis input,11146
-02_source_data/project/05_scripts/repair_geographic_measurement_support_20261009.py,Scientific source code or processed analysis input,13363
-02_source_data/project/05_scripts/run_baseline_equity_support_20261011.py,Scientific source code or processed analysis input,19961
-02_source_data/project/05_scripts/run_geo_adjusted_national_orthogonal_20261009.py,Scientific source code or processed analysis input,21000
-02_source_data/project/05_scripts/run_state_lst_same_day_composite_resumable.py,Scientific source code or processed analysis input,27258
-02_source_data/project/05_scripts/run_state_lst_window_diagnostic_blocked.py,Scientific source code or processed analysis input,46773
-02_source_data/project/05_scripts/spatial_mean_slope_inference_20261009.py,Scientific source code or processed analysis input,21711
-02_source_data/project/05_scripts/validate_geo_adjusted_national_orthogonal_20261009.py,Scientific source code or processed analysis input,8572
-02_source_data/project/06_logs/canopy_cooling_equity_20261009_run01/annual_canopy_equity_row_manifest.csv.gz,Scientific source code or processed analysis input,32825348
-02_source_data/project/06_logs/figure_attachment_revision_20261020_run01/Figure01/figure01_revision07.py,Scientific source code or processed analysis input,17078
-02_source_data/project/06_logs/figure_attachment_revision_20261020_run01/Figure02/figure02_revision01.py,Scientific source code or processed analysis input,17168
-02_source_data/project/06_logs/figure_attachment_revision_20261020_run01/Figure05/draw_figure05.py,Scientific source code or processed analysis input,15398
-02_source_data/project/06_logs/figure_attachment_revision_20261020_run01/Figure05/source_data/map_paired_tracts.csv,Scientific source code or processed analysis input,7225835
-02_source_data/project/06_logs/geo_adjusted_national_orthogonal_20261009_run01/crossfit_scores.csv,Scientific source code or processed analysis input,23642986
-02_source_data/project/06_logs/geo_adjusted_national_orthogonal_20261009_run01/spatial_covariance_reference.csv,Scientific source code or processed analysis input,871
-02_source_data/project/06_logs/geographic_panel_spatial_20261011_run01/run_geographic_panel_spatial.py,Scientific source code or processed analysis input,8458
-02_source_data/project/06_logs/group_mean_compatibility_repair_20261014_run01/complete_group_outputs.py,Scientific source code or processed analysis input,8228
-02_source_data/project/06_logs/group_mean_compatibility_repair_20261014_run01/results_csv/all_group_reference_intervals.csv,Scientific source code or processed analysis input,18970
-02_source_data/project/06_logs/group_mean_compatibility_repair_20261014_run01/results_csv/crossfit_group_probabilities.csv,Scientific source code or processed analysis input,40728645
-02_source_data/project/06_logs/group_mean_compatibility_repair_20261014_run01/results_csv/estimates_and_corrections.csv,Scientific source code or processed analysis input,3431
-02_source_data/project/06_logs/group_mean_compatibility_repair_20261014_run01/results_csv/joint_spatial_covariance.npz,Scientific source code or processed analysis input,6728
-02_source_data/project/06_logs/group_mean_compatibility_repair_20261014_run01/run_group_mean_repair.py,Scientific source code or processed analysis input,23377
-02_source_data/project/06_logs/group_mean_compatibility_repair_20261014_run01/validate_group_mean_repair.py,Scientific source code or processed analysis input,10936
-02_source_data/project/06_logs/NLCD_J1_descriptive_20261015_run01/J1_city_equal_Q4_Q1.csv,Scientific source code or processed analysis input,8507
-02_source_data/project/06_logs/NLCD_J1_descriptive_20261015_run01/run_J1.py,Scientific source code or processed analysis input,14266
-02_source_data/project/06_logs/NLCD_J1_descriptive_20261015_run01/validate_J1.py,Scientific source code or processed analysis input,8824
-02_source_data/project/06_logs/population_weighted_equity_20261011_run01/run_population_weighted.py,Scientific source code or processed analysis input,14918
-02_source_data/project/06_logs/state_alignment_policy_holdout_20261012_run01/conditional_policy_ranking_summary.csv,Scientific source code or processed analysis input,7384
-02_source_data/project/06_logs/state_alignment_policy_holdout_20261012_run01/policy_candidate_support_audit.csv,Scientific source code or processed analysis input,25610355
-02_source_data/project/08_figure图/Fig01_全国主分析样本空间分布/figure01.py,Scientific source code or processed analysis input,24949
-02_source_data/project/08_figure图/Fig03_树冠与热环境共同演变/revision02_baseline_and_change_20261019/draw_figure03.py,Scientific source code or processed analysis input,16638
-02_source_data/project/08_figure图/Fig03_树冠与热环境共同演变/revision02_baseline_and_change_20261019/source_data/city_paired_means.csv,Scientific source code or processed analysis input,154158
-02_source_data/project/08_figure图/Fig04_全国响应与估计对象比较/revision03_atlas45/figure04_atlas.py,Scientific source code or processed analysis input,27177
-02_source_data/project/08_figure图/Fig04_全国响应与估计对象比较/revision04_national_response_social_groups_20261019/draw_figure04.py,Scientific source code or processed analysis input,19848
-02_source_data/project/08_figure图/Fig06_条件优先排序与对象组成/revision01_priority_selection_20261019/draw_figure06.py,Scientific source code or processed analysis input,13348
-02_source_data/project/08_figure图/Fig07_候选规则与对象组成/revision04_statistical_panels/figure07.py,Scientific source code or processed analysis input,22629
-02_source_data/project/08_figure图/Temporal_AB_全国与45城年度轨迹/temporal_figures.py,Scientific source code or processed analysis input,19426
-02_source_data/project/08_figure图/Temporal_CD_小区图集与三期热环境/temporal_cd.py,Scientific source code or processed analysis input,25526
-02_source_data/project/08_figure图/Temporal_E_树冠与温度共同演变/coevolution.py,Scientific source code or processed analysis input,25294
-02_source_data/project/08_figure图/Temporal_E_树冠与温度共同演变/source_data/paired_tract_panel.csv,Scientific source code or processed analysis input,18155590
-02_source_data/project/08_figure图/Temporal_E_树冠与温度共同演变/source_data/social_fixed_cities.csv,Scientific source code or processed analysis input,2084
-02_source_data/project/08_figure图/Temporal_E_树冠与温度共同演变/source_data/social_fixed_panel_keys.csv,Scientific source code or processed analysis input,2473021
-02_source_data/project/08_figure图/Temporal_F_差距变化来源/gap_sources.py,Scientific source code or processed analysis input,14524
-03_code/replay_core.py,Executable summary reproduction code,6593
-03_code/replay_figure_values.py,Executable summary reproduction code,4376
-03_code/replay_measurement.py,Executable summary reproduction code,9124
-03_code/replay_tables.py,Executable summary reproduction code,2429
-03_code/upstream_measurement/compare_local.py,Upstream measurement source code,13221
-03_code/upstream_measurement/compare_science_nlcd.py,Upstream measurement source code,17570
-03_code/upstream_measurement/run_temporal_diagnostic.py,Upstream measurement source code,14251
-03_code/upstream_measurement/summarize_evidence.py,Upstream measurement source code,11765
-CITATION.cff,Documentation or configuration,411
-DATA_DICTIONARY.csv,Documentation or configuration,6635
-MEASUREMENT_DATA.md,Documentation or configuration,2256
-README.md,Documentation or configuration,2492
-requirements.txt,Documentation or configuration,30
-requirements_source_review.txt,Documentation or configuration,956
-run_reproduction.py,Executable summary reproduction code,1372
-source_config.json,Documentation or configuration,161
-source_support/nc_paths.py,Documentation or configuration,441
-SOURCE_WORKFLOW.md,Documentation or configuration,1887
+path,role
+.gitignore,Documentation or configuration
+02_source_data/measurement/all_matched_tract_results.csv,Processed canopy measurement data
+02_source_data/measurement/annual_stage_results.csv,Processed canopy measurement data
+02_source_data/measurement/annual_target_series.csv,Processed canopy measurement data
+02_source_data/measurement/local_city_comparison.csv,Processed canopy measurement data
+02_source_data/measurement/local_social_gap_comparison.csv,Processed canopy measurement data
+02_source_data/measurement/local_social_group_levels.csv,Processed canopy measurement data
+02_source_data/measurement/product_difference_summary.csv,Processed canopy measurement data
+02_source_data/measurement/stage_contributions.csv,Processed canopy measurement data
+02_source_data/measurement/tract_product_comparison.csv,Processed canopy measurement data
+02_source_data/paper_tables/Supplementary_Methods_Table_1.csv,Main or supplementary table
+02_source_data/paper_tables/Supplementary_Methods_Table_2.csv,Main or supplementary table
+02_source_data/paper_tables/Supplementary_Methods_Table_3.csv,Main or supplementary table
+02_source_data/paper_tables/Supplementary_Table_10.csv,Main or supplementary table
+02_source_data/paper_tables/Supplementary_Table_11.csv,Main or supplementary table
+02_source_data/paper_tables/Supplementary_Table_12.csv,Main or supplementary table
+02_source_data/paper_tables/Supplementary_Table_13.csv,Main or supplementary table
+02_source_data/paper_tables/Supplementary_Table_14.csv,Main or supplementary table
+02_source_data/paper_tables/Supplementary_Table_15.csv,Main or supplementary table
+02_source_data/paper_tables/Supplementary_Table_16.csv,Main or supplementary table
+02_source_data/paper_tables/Supplementary_Table_17.csv,Main or supplementary table
+02_source_data/paper_tables/Supplementary_Table_18.csv,Main or supplementary table
+02_source_data/paper_tables/Supplementary_Table_1a.csv,Main or supplementary table
+02_source_data/paper_tables/Supplementary_Table_1b.csv,Main or supplementary table
+02_source_data/paper_tables/Supplementary_Table_1c.csv,Main or supplementary table
+02_source_data/paper_tables/Supplementary_Table_1d.csv,Main or supplementary table
+02_source_data/paper_tables/Supplementary_Table_2.csv,Main or supplementary table
+02_source_data/paper_tables/Supplementary_Table_3.csv,Main or supplementary table
+02_source_data/paper_tables/Supplementary_Table_4.csv,Main or supplementary table
+02_source_data/paper_tables/Supplementary_Table_5.csv,Main or supplementary table
+02_source_data/paper_tables/Supplementary_Table_6.csv,Main or supplementary table
+02_source_data/paper_tables/Supplementary_Table_7.csv,Main or supplementary table
+02_source_data/paper_tables/Supplementary_Table_8.csv,Main or supplementary table
+02_source_data/paper_tables/Supplementary_Table_9.csv,Main or supplementary table
+02_source_data/paper_tables/Table_1.csv,Main or supplementary table
+02_source_data/paper_tables/Table_2.csv,Main or supplementary table
+02_source_data/paper_tables/Table_3.csv,Main or supplementary table
+02_source_data/paper_tables/Table_S9_frozen_continuous_projection_source.csv,Main or supplementary table
+02_source_data/project/05_scripts/aggregate_national_canopy_state.py,Scientific source code or processed analysis input
+02_source_data/project/05_scripts/aggregate_state_same_day_composite_annual.py,Scientific source code or processed analysis input
+02_source_data/project/05_scripts/analyze_canopy_cooling_equity_20261009.py,Scientific source code or processed analysis input
+02_source_data/project/05_scripts/assemble_and_audit_lagged_support_20261008.py,Scientific source code or processed analysis input
+02_source_data/project/05_scripts/audit_temperature_measurement_equity_20261009.py,Scientific source code or processed analysis input
+02_source_data/project/05_scripts/compute_tract_canopy_exact.py,Scientific source code or processed analysis input
+02_source_data/project/05_scripts/extract_national_census_baseline.py,Scientific source code or processed analysis input
+02_source_data/project/05_scripts/freeze_national_protocol_and_spatial_folds_20261008.py,Scientific source code or processed analysis input
+02_source_data/project/05_scripts/landsat_temperature_quality.py,Scientific source code or processed analysis input
+02_source_data/project/05_scripts/match_national_gridmet_observation_dates_20261008.py,Scientific source code or processed analysis input
+02_source_data/project/05_scripts/prepare_urban_land_weights.py,Scientific source code or processed analysis input
+02_source_data/project/05_scripts/primary_canopy_model_candidate_20261008.json,Scientific source code or processed analysis input
+02_source_data/project/05_scripts/primary_canopy_model_geo_adjusted_20261009.json,Scientific source code or processed analysis input
+02_source_data/project/05_scripts/rebuild_primary_weather_outcome_20261008.py,Scientific source code or processed analysis input
+02_source_data/project/05_scripts/repair_geographic_measurement_support_20261009.py,Scientific source code or processed analysis input
+02_source_data/project/05_scripts/run_baseline_equity_support_20261011.py,Scientific source code or processed analysis input
+02_source_data/project/05_scripts/run_geo_adjusted_national_orthogonal_20261009.py,Scientific source code or processed analysis input
+02_source_data/project/05_scripts/run_state_lst_same_day_composite_resumable.py,Scientific source code or processed analysis input
+02_source_data/project/05_scripts/run_state_lst_window_diagnostic_blocked.py,Scientific source code or processed analysis input
+02_source_data/project/05_scripts/spatial_mean_slope_inference_20261009.py,Scientific source code or processed analysis input
+02_source_data/project/05_scripts/validate_geo_adjusted_national_orthogonal_20261009.py,Scientific source code or processed analysis input
+02_source_data/project/06_logs/canopy_cooling_equity_20261009_run01/annual_canopy_equity_row_manifest.csv.gz,Scientific source code or processed analysis input
+02_source_data/project/06_logs/figure_attachment_revision_20261020_run01/Figure01/figure01_revision07.py,Scientific source code or processed analysis input
+02_source_data/project/06_logs/figure_attachment_revision_20261020_run01/Figure02/figure02_revision01.py,Scientific source code or processed analysis input
+02_source_data/project/06_logs/figure_attachment_revision_20261020_run01/Figure05/draw_figure05.py,Scientific source code or processed analysis input
+02_source_data/project/06_logs/figure_attachment_revision_20261020_run01/Figure05/source_data/map_paired_tracts.csv,Scientific source code or processed analysis input
+02_source_data/project/06_logs/geo_adjusted_national_orthogonal_20261009_run01/crossfit_scores.csv,Scientific source code or processed analysis input
+02_source_data/project/06_logs/geo_adjusted_national_orthogonal_20261009_run01/spatial_covariance_reference.csv,Scientific source code or processed analysis input
+02_source_data/project/06_logs/geographic_panel_spatial_20261011_run01/run_geographic_panel_spatial.py,Scientific source code or processed analysis input
+02_source_data/project/06_logs/group_mean_compatibility_repair_20261014_run01/complete_group_outputs.py,Scientific source code or processed analysis input
+02_source_data/project/06_logs/group_mean_compatibility_repair_20261014_run01/results_csv/all_group_reference_intervals.csv,Scientific source code or processed analysis input
+02_source_data/project/06_logs/group_mean_compatibility_repair_20261014_run01/results_csv/crossfit_group_probabilities.csv,Scientific source code or processed analysis input
+02_source_data/project/06_logs/group_mean_compatibility_repair_20261014_run01/results_csv/estimates_and_corrections.csv,Scientific source code or processed analysis input
+02_source_data/project/06_logs/group_mean_compatibility_repair_20261014_run01/results_csv/joint_spatial_covariance.npz,Scientific source code or processed analysis input
+02_source_data/project/06_logs/group_mean_compatibility_repair_20261014_run01/run_group_mean_repair.py,Scientific source code or processed analysis input
+02_source_data/project/06_logs/group_mean_compatibility_repair_20261014_run01/validate_group_mean_repair.py,Scientific source code or processed analysis input
+02_source_data/project/06_logs/NLCD_J1_descriptive_20261015_run01/J1_city_equal_Q4_Q1.csv,Scientific source code or processed analysis input
+02_source_data/project/06_logs/NLCD_J1_descriptive_20261015_run01/run_J1.py,Scientific source code or processed analysis input
+02_source_data/project/06_logs/NLCD_J1_descriptive_20261015_run01/validate_J1.py,Scientific source code or processed analysis input
+02_source_data/project/06_logs/population_weighted_equity_20261011_run01/run_population_weighted.py,Scientific source code or processed analysis input
+02_source_data/project/06_logs/state_alignment_policy_holdout_20261012_run01/conditional_policy_ranking_summary.csv,Scientific source code or processed analysis input
+02_source_data/project/06_logs/state_alignment_policy_holdout_20261012_run01/policy_candidate_support_audit.csv,Scientific source code or processed analysis input
+02_source_data/project/08_figure图/Fig01_全国主分析样本空间分布/figure01.py,Scientific source code or processed analysis input
+02_source_data/project/08_figure图/Fig03_树冠与热环境共同演变/revision02_baseline_and_change_20261019/draw_figure03.py,Scientific source code or processed analysis input
+02_source_data/project/08_figure图/Fig03_树冠与热环境共同演变/revision02_baseline_and_change_20261019/source_data/city_paired_means.csv,Scientific source code or processed analysis input
+02_source_data/project/08_figure图/Fig04_全国响应与估计对象比较/revision03_atlas45/figure04_atlas.py,Scientific source code or processed analysis input
+02_source_data/project/08_figure图/Fig04_全国响应与估计对象比较/revision04_national_response_social_groups_20261019/draw_figure04.py,Scientific source code or processed analysis input
+02_source_data/project/08_figure图/Fig06_条件优先排序与对象组成/revision01_priority_selection_20261019/draw_figure06.py,Scientific source code or processed analysis input
+02_source_data/project/08_figure图/Fig07_候选规则与对象组成/revision04_statistical_panels/figure07.py,Scientific source code or processed analysis input
+02_source_data/project/08_figure图/Temporal_AB_全国与45城年度轨迹/temporal_figures.py,Scientific source code or processed analysis input
+02_source_data/project/08_figure图/Temporal_CD_小区图集与三期热环境/temporal_cd.py,Scientific source code or processed analysis input
+02_source_data/project/08_figure图/Temporal_E_树冠与温度共同演变/coevolution.py,Scientific source code or processed analysis input
+02_source_data/project/08_figure图/Temporal_E_树冠与温度共同演变/source_data/paired_tract_panel.csv,Scientific source code or processed analysis input
+02_source_data/project/08_figure图/Temporal_E_树冠与温度共同演变/source_data/social_fixed_cities.csv,Scientific source code or processed analysis input
+02_source_data/project/08_figure图/Temporal_E_树冠与温度共同演变/source_data/social_fixed_panel_keys.csv,Scientific source code or processed analysis input
+02_source_data/project/08_figure图/Temporal_F_差距变化来源/gap_sources.py,Scientific source code or processed analysis input
+03_code/replay_core.py,Executable summary reproduction code
+03_code/replay_figure_values.py,Executable summary reproduction code
+03_code/replay_measurement.py,Executable summary reproduction code
+03_code/replay_tables.py,Executable summary reproduction code
+03_code/upstream_measurement/compare_local.py,Upstream measurement source code
+03_code/upstream_measurement/compare_science_nlcd.py,Upstream measurement source code
+03_code/upstream_measurement/run_temporal_diagnostic.py,Upstream measurement source code
+03_code/upstream_measurement/summarize_evidence.py,Upstream measurement source code
+CITATION.cff,Documentation or configuration
+DATA_DICTIONARY.csv,Documentation or configuration
+MEASUREMENT_DATA.md,Documentation or configuration
+README.md,Documentation or configuration
+requirements.txt,Documentation or configuration
+requirements_source_review.txt,Documentation or configuration
+run_reproduction.py,Executable summary reproduction code
+source_config.json,Documentation or configuration
+source_support/nc_paths.py,Documentation or configuration
+SOURCE_WORKFLOW.md,Documentation or configuration

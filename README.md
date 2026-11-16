@@ -21,7 +21,7 @@ The first three entries reproduce national and social-group estimates, reference
 - `02_source_data/paper_tables/`: three main tables, three supplementary methods tables and Supplementary Tables 1a–18, exported from the current manuscript and Supplementary Information.
 - `03_code/`: four summary-reproduction entries and four upstream measurement scripts.
 - `DATA_DICTIONARY.csv`: core variables and units.
-- `DATA_AND_CODE_INDEX.csv`: file purposes and sizes.
+- `DATA_AND_CODE_INDEX.csv`: file paths and purposes.
 - `SOURCE_WORKFLOW.md`: scientific source organization and upstream requirements.
 - `MEASUREMENT_DATA.md`: analysis units, source data and table correspondence.
 
