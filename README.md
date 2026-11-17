@@ -19,11 +19,13 @@ The first three entries reproduce national and social-group estimates, reference
 - `02_source_data/project/`: processed inputs and 39 scientific workflow scripts.
 - `02_source_data/measurement/`: 46,424-tract canopy-product data, annual summaries and matched local-reference data.
 - `02_source_data/paper_tables/`: three main tables, three supplementary methods tables and Supplementary Tables 1a–18, exported from the current manuscript and Supplementary Information.
+- `02_source_data/figures/`: numerical source data for Figs. 1–6.
 - `03_code/`: four summary-reproduction entries and four upstream measurement scripts.
 - `DATA_DICTIONARY.csv`: core variables and units.
 - `DATA_AND_CODE_INDEX.csv`: file paths and purposes.
 - `SOURCE_WORKFLOW.md`: scientific source organization and upstream requirements.
 - `MEASUREMENT_DATA.md`: analysis units, source data and table correspondence.
+- `SOURCE_DATA_MAP.md`: panel-to-file mapping for the main figures and tables.
 
 The full upstream workflow processes remote-sensing data and fits models. The executable summary workflow uses saved predictions, residuals, group probabilities and covariance matrices. It does not retrain the models or reprocess satellite imagery. The matched local references use their actual observation years and mapped footprints. The 23-city window interpretation record in Supplementary Table 18 is a method diagnostic and does not enter the reported local-reference contrasts.
 

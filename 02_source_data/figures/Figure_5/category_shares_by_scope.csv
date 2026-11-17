@@ -1,0 +1,13 @@
+scope,category,label,tracts,denominator,percent
+National paired,loss_weaker,Loss / weaker,9321,42369,21.999575161084756
+National paired,gain_weaker,Gain / weaker,11835,42369,27.933158677334845
+National paired,loss_stronger,Loss / stronger,11237,42369,26.52174939224433
+National paired,gain_stronger,Gain / stronger,9929,42369,23.434586608133305
+National paired,zero_change,Zero net change,27,42369,0.06372583728669545
+National paired,positive_response,Positive response,20,42369,0.04720432391607071
+45 displayed cities,loss_weaker,Loss / weaker,5914,24493,24.14567427428245
+45 displayed cities,gain_weaker,Gain / weaker,6217,24493,25.382762421916468
+45 displayed cities,loss_stronger,Loss / stronger,7265,24493,29.66153594904667
+45 displayed cities,gain_stronger,Gain / stronger,5058,24493,20.65079818723717
+45 displayed cities,zero_change,Zero net change,24,24493,0.09798718001061528
+45 displayed cities,positive_response,Positive response,15,24493,0.061241987506634545

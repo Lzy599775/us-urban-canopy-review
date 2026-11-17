@@ -1,0 +1,10 @@
+city_number,city_id,name,paired_tracts,main_tracts,paired_parts,context_parts,unmatched,linear_zoom,all_parts_within_window,holes_retained
+6,63217,New York–Newark,3532,4153,3856,836,0,1.35,True,7
+10,75664,"Rochester, NY",175,182,224,15,0,1.0,True,1
+11,16264,Chicago,1349,1756,1467,527,0,1.1534120647810098,True,3
+20,23743,Des Moines,82,82,126,0,0,1.0,True,0
+24,56602,Miami,384,830,450,488,0,1.33928237781383,True,1
+28,56116,Memphis,235,239,280,4,0,1.0,True,0
+36,69184,Phoenix–Mesa,624,624,729,0,0,1.3322807182689471,True,2
+43,80389,Seattle,551,593,661,85,0,1.35,True,2
+41,51445,Los Angeles,2310,2419,2428,123,0,1.35,True,2

@@ -1,0 +1,181 @@
+scope,variable,quartile,category,tracts,denominator,percent
+National paired,income,1,loss_weaker,2174,10680,20.355805243445694
+National paired,income,1,gain_weaker,2216,10680,20.749063670411985
+National paired,income,1,loss_stronger,3072,10680,28.764044943820227
+National paired,income,1,gain_stronger,3208,10680,30.0374531835206
+National paired,income,1,zero_change,7,10680,0.0655430711610487
+National paired,income,1,positive_response,3,10680,0.02808988764044944
+National paired,income,2,loss_weaker,2657,10538,25.213513000569364
+National paired,income,2,gain_weaker,2481,10538,23.54336686278231
+National paired,income,2,loss_stronger,3025,10538,28.70563674321503
+National paired,income,2,gain_stronger,2358,10538,22.376162459669764
+National paired,income,2,zero_change,9,10538,0.08540520022774721
+National paired,income,2,positive_response,8,10538,0.07591573353577528
+National paired,income,3,loss_weaker,2383,10347,23.030830192326277
+National paired,income,3,gain_weaker,2950,10347,28.51067942398763
+National paired,income,3,loss_stronger,2760,10347,26.674398376340967
+National paired,income,3,gain_stronger,2248,10347,21.72610418478786
+National paired,income,3,zero_change,4,10347,0.03865854837150865
+National paired,income,3,positive_response,2,10347,0.019329274185754326
+National paired,income,4,loss_weaker,2022,10514,19.23150085600152
+National paired,income,4,gain_weaker,4087,10514,38.87198021685372
+National paired,income,4,loss_stronger,2331,10514,22.170439414114515
+National paired,income,4,gain_stronger,2060,10514,19.59292372075328
+National paired,income,4,zero_change,7,10514,0.06657789613848203
+National paired,income,4,positive_response,7,10514,0.06657789613848203
+National paired,income,0,loss_weaker,85,290,29.310344827586203
+National paired,income,0,gain_weaker,101,290,34.82758620689655
+National paired,income,0,loss_stronger,49,290,16.896551724137932
+National paired,income,0,gain_stronger,55,290,18.96551724137931
+National paired,income,0,zero_change,0,290,0.0
+National paired,income,0,positive_response,0,290,0.0
+National paired,poverty,1,loss_weaker,2131,10653,20.003754810851404
+National paired,poverty,1,gain_weaker,3878,10653,36.40289120435558
+National paired,poverty,1,loss_stronger,2474,10653,23.223505115929786
+National paired,poverty,1,gain_stronger,2161,10653,20.285365624706657
+National paired,poverty,1,zero_change,3,10653,0.028161081385525203
+National paired,poverty,1,positive_response,6,10653,0.056322162771050406
+National paired,poverty,2,loss_weaker,2281,10456,21.81522570772762
+National paired,poverty,2,gain_weaker,3091,10456,29.561973986228
+National paired,poverty,2,loss_stronger,2854,10456,27.295332823259372
+National paired,poverty,2,gain_stronger,2221,10456,21.241392501912777
+National paired,poverty,2,zero_change,5,10456,0.0478194338179036
+National paired,poverty,2,positive_response,4,10456,0.03825554705432287
+National paired,poverty,3,loss_weaker,2719,10424,26.084036838065998
+National paired,poverty,3,gain_weaker,2642,10424,25.34535686876439
+National paired,poverty,3,loss_stronger,2763,10424,26.506139677666923
+National paired,poverty,3,gain_stronger,2284,10424,21.910974673829624
+National paired,poverty,3,zero_change,10,10424,0.09593246354566384
+National paired,poverty,3,positive_response,6,10424,0.05755947812739831
+National paired,poverty,4,loss_weaker,2105,10546,19.960174473734117
+National paired,poverty,4,gain_weaker,2123,10546,20.1308553005879
+National paired,poverty,4,loss_stronger,3097,10546,29.366584487009295
+National paired,poverty,4,gain_stronger,3208,10546,30.419116252607626
+National paired,poverty,4,zero_change,9,10546,0.08534041342689172
+National paired,poverty,4,positive_response,4,10546,0.037929072634174096
+National paired,poverty,0,loss_weaker,85,290,29.310344827586203
+National paired,poverty,0,gain_weaker,101,290,34.82758620689655
+National paired,poverty,0,loss_stronger,49,290,16.896551724137932
+National paired,poverty,0,gain_stronger,55,290,18.96551724137931
+National paired,poverty,0,zero_change,0,290,0.0
+National paired,poverty,0,positive_response,0,290,0.0
+National paired,age65plus,1,loss_weaker,2303,10660,21.604127579737337
+National paired,age65plus,1,gain_weaker,4489,10660,42.110694183864915
+National paired,age65plus,1,loss_stronger,1810,10660,16.97936210131332
+National paired,age65plus,1,gain_stronger,2029,10660,19.03377110694184
+National paired,age65plus,1,zero_change,12,10660,0.1125703564727955
+National paired,age65plus,1,positive_response,17,10660,0.15947467166979362
+National paired,age65plus,2,loss_weaker,2479,10496,23.618521341463413
+National paired,age65plus,2,gain_weaker,3233,10496,30.80221036585366
+National paired,age65plus,2,loss_stronger,2422,10496,23.07545731707317
+National paired,age65plus,2,gain_stronger,2351,10496,22.399009146341463
+National paired,age65plus,2,zero_change,8,10496,0.07621951219512195
+National paired,age65plus,2,positive_response,3,10496,0.02858231707317073
+National paired,age65plus,3,loss_weaker,2354,10413,22.60635743781811
+National paired,age65plus,3,gain_weaker,2299,10413,22.07817151637376
+National paired,age65plus,3,loss_stronger,3127,10413,30.029770479208683
+National paired,age65plus,3,gain_stronger,2632,10413,25.276097186209544
+National paired,age65plus,3,zero_change,1,10413,0.009603380389897243
+National paired,age65plus,3,positive_response,0,10413,0.0
+National paired,age65plus,4,loss_weaker,2100,10510,19.980970504281636
+National paired,age65plus,4,gain_weaker,1713,10510,16.298763082778304
+National paired,age65plus,4,loss_stronger,3829,10510,36.431969552806855
+National paired,age65plus,4,gain_stronger,2862,10510,27.231208372978116
+National paired,age65plus,4,zero_change,6,10510,0.05708848715509039
+National paired,age65plus,4,positive_response,0,10510,0.0
+National paired,age65plus,0,loss_weaker,85,290,29.310344827586203
+National paired,age65plus,0,gain_weaker,101,290,34.82758620689655
+National paired,age65plus,0,loss_stronger,49,290,16.896551724137932
+National paired,age65plus,0,gain_stronger,55,290,18.96551724137931
+National paired,age65plus,0,zero_change,0,290,0.0
+National paired,age65plus,0,positive_response,0,290,0.0
+45 displayed cities,income,1,loss_weaker,1260,6156,20.46783625730994
+45 displayed cities,income,1,gain_weaker,1183,6156,19.217024041585447
+45 displayed cities,income,1,loss_stronger,1832,6156,29.759584145549056
+45 displayed cities,income,1,gain_stronger,1875,6156,30.458089668615983
+45 displayed cities,income,1,zero_change,6,6156,0.09746588693957114
+45 displayed cities,income,1,positive_response,0,6156,0.0
+45 displayed cities,income,2,loss_weaker,1710,6180,27.669902912621357
+45 displayed cities,income,2,gain_weaker,1264,6180,20.45307443365696
+45 displayed cities,income,2,loss_stronger,1991,6180,32.2168284789644
+45 displayed cities,income,2,gain_stronger,1200,6180,19.41747572815534
+45 displayed cities,income,2,zero_change,8,6180,0.12944983818770225
+45 displayed cities,income,2,positive_response,7,6180,0.11326860841423948
+45 displayed cities,income,3,loss_weaker,1611,6096,26.427165354330707
+45 displayed cities,income,3,gain_weaker,1546,6096,25.360892388451443
+45 displayed cities,income,3,loss_stronger,1848,6096,30.314960629921263
+45 displayed cities,income,3,gain_stronger,1085,6096,17.798556430446194
+45 displayed cities,income,3,zero_change,4,6096,0.06561679790026247
+45 displayed cities,income,3,positive_response,2,6096,0.03280839895013123
+45 displayed cities,income,4,loss_weaker,1333,6061,21.993070450420724
+45 displayed cities,income,4,gain_weaker,2224,6061,36.69361491503052
+45 displayed cities,income,4,loss_stronger,1594,6061,26.299290546114502
+45 displayed cities,income,4,gain_stronger,898,6061,14.816036957597756
+45 displayed cities,income,4,zero_change,6,6061,0.0989935654182478
+45 displayed cities,income,4,positive_response,6,6061,0.0989935654182478
+45 displayed cities,income,0,loss_weaker,0,0,
+45 displayed cities,income,0,gain_weaker,0,0,
+45 displayed cities,income,0,loss_stronger,0,0,
+45 displayed cities,income,0,gain_stronger,0,0,
+45 displayed cities,income,0,zero_change,0,0,
+45 displayed cities,income,0,positive_response,0,0,
+45 displayed cities,poverty,1,loss_weaker,1407,6092,23.09586342744583
+45 displayed cities,poverty,1,gain_weaker,2076,6092,34.07747866053841
+45 displayed cities,poverty,1,loss_stronger,1675,6092,27.495075508864087
+45 displayed cities,poverty,1,gain_stronger,926,6092,15.200262639527248
+45 displayed cities,poverty,1,zero_change,2,6092,0.032829940906106365
+45 displayed cities,poverty,1,positive_response,6,6092,0.0984898227183191
+45 displayed cities,poverty,2,loss_weaker,1498,6120,24.477124183006534
+45 displayed cities,poverty,2,gain_weaker,1607,6120,26.258169934640524
+45 displayed cities,poverty,2,loss_stronger,1926,6120,31.470588235294116
+45 displayed cities,poverty,2,gain_stronger,1080,6120,17.647058823529413
+45 displayed cities,poverty,2,zero_change,5,6120,0.08169934640522876
+45 displayed cities,poverty,2,positive_response,4,6120,0.065359477124183
+45 displayed cities,poverty,3,loss_weaker,1807,6151,29.377337018370998
+45 displayed cities,poverty,3,gain_weaker,1395,6151,22.679239148106
+45 displayed cities,poverty,3,loss_stronger,1805,6151,29.344821980165825
+45 displayed cities,poverty,3,gain_stronger,1131,6151,18.387254105023572
+45 displayed cities,poverty,3,zero_change,9,6151,0.1463176719232645
+45 displayed cities,poverty,3,positive_response,4,6151,0.06503007641033978
+45 displayed cities,poverty,4,loss_weaker,1202,6130,19.608482871125613
+45 displayed cities,poverty,4,gain_weaker,1139,6130,18.580750407830344
+45 displayed cities,poverty,4,loss_stronger,1859,6130,30.32626427406199
+45 displayed cities,poverty,4,gain_stronger,1921,6130,31.337683523654157
+45 displayed cities,poverty,4,zero_change,8,6130,0.13050570962479607
+45 displayed cities,poverty,4,positive_response,1,6130,0.01631321370309951
+45 displayed cities,poverty,0,loss_weaker,0,0,
+45 displayed cities,poverty,0,gain_weaker,0,0,
+45 displayed cities,poverty,0,loss_stronger,0,0,
+45 displayed cities,poverty,0,gain_stronger,0,0,
+45 displayed cities,poverty,0,zero_change,0,0,
+45 displayed cities,poverty,0,positive_response,0,0,
+45 displayed cities,age65plus,1,loss_weaker,1402,6124,22.893533638145
+45 displayed cities,age65plus,1,gain_weaker,2549,6124,41.62312214239059
+45 displayed cities,age65plus,1,loss_stronger,1083,6124,17.684519921619856
+45 displayed cities,age65plus,1,gain_stronger,1065,6124,17.39059438275637
+45 displayed cities,age65plus,1,zero_change,12,6124,0.1959503592423253
+45 displayed cities,age65plus,1,positive_response,13,6124,0.2122795558458524
+45 displayed cities,age65plus,2,loss_weaker,1630,6163,26.448158364432906
+45 displayed cities,age65plus,2,gain_weaker,1729,6163,28.05451890313159
+45 displayed cities,age65plus,2,loss_stronger,1570,6163,25.474606522797338
+45 displayed cities,age65plus,2,gain_stronger,1226,6163,19.89290929742009
+45 displayed cities,age65plus,2,zero_change,6,6163,0.09735518416355671
+45 displayed cities,age65plus,2,positive_response,2,6163,0.0324517280545189
+45 displayed cities,age65plus,3,loss_weaker,1546,6123,25.249060917850723
+45 displayed cities,age65plus,3,gain_weaker,1121,6123,18.30801894496162
+45 displayed cities,age65plus,3,loss_stronger,2113,6123,34.509227502858074
+45 displayed cities,age65plus,3,gain_stronger,1342,6123,21.917360770863954
+45 displayed cities,age65plus,3,zero_change,1,6123,0.016331863465621425
+45 displayed cities,age65plus,3,positive_response,0,6123,0.0
+45 displayed cities,age65plus,4,loss_weaker,1336,6083,21.962847279302974
+45 displayed cities,age65plus,4,gain_weaker,818,6083,13.447312181489396
+45 displayed cities,age65plus,4,loss_stronger,2499,6083,41.081703107019564
+45 displayed cities,age65plus,4,gain_stronger,1425,6083,23.425941147460136
+45 displayed cities,age65plus,4,zero_change,5,6083,0.08219628472793031
+45 displayed cities,age65plus,4,positive_response,0,6083,0.0
+45 displayed cities,age65plus,0,loss_weaker,0,0,
+45 displayed cities,age65plus,0,gain_weaker,0,0,
+45 displayed cities,age65plus,0,loss_stronger,0,0,
+45 displayed cities,age65plus,0,gain_stronger,0,0,
+45 displayed cities,age65plus,0,zero_change,0,0,
+45 displayed cities,age65plus,0,positive_response,0,0,

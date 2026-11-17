@@ -1,5 +1,29 @@
 path,role
 .gitignore,Documentation or configuration
+02_source_data/figures/Figure_1/city_support.csv,Numerical source data for main figure
+02_source_data/figures/Figure_1/national_display_points.csv,Numerical source data for main figure
+02_source_data/figures/Figure_1/paired_2023_2024_display.csv,Numerical source data for main figure
+02_source_data/figures/Figure_2/city_gap_change_points.csv,Numerical source data for main figure
+02_source_data/figures/Figure_2/city_net_change_points.csv,Numerical source data for main figure
+02_source_data/figures/Figure_2/coverage_endpoints_used.csv,Numerical source data for main figure
+02_source_data/figures/Figure_2/equal_city_gaps_used.csv,Numerical source data for main figure
+02_source_data/figures/Figure_2/group_trajectories_used.csv,Numerical source data for main figure
+02_source_data/figures/Figure_2/national_annual_used.csv,Numerical source data for main figure
+02_source_data/figures/Figure_3/city_levels_and_cumulative_changes.csv,Numerical source data for main figure
+02_source_data/figures/Figure_3/city_paired_means.csv,Numerical source data for main figure
+02_source_data/figures/Figure_3/social_equal_city_gap_trajectories.csv,Numerical source data for main figure
+02_source_data/figures/Figure_3/social_group_trajectories.csv,Numerical source data for main figure
+02_source_data/figures/Figure_4/group_contrasts_all_scales.csv,Numerical source data for main figure
+02_source_data/figures/Figure_4/group_means_200km.csv,Numerical source data for main figure
+02_source_data/figures/Figure_4/map_predictions.csv,Numerical source data for main figure
+02_source_data/figures/Figure_4/national_estimates.csv,Numerical source data for main figure
+02_source_data/figures/Figure_5/category_shares_by_scope.csv,Numerical source data for main figure
+02_source_data/figures/Figure_5/map_paired_tracts.csv,Numerical source data for main figure
+02_source_data/figures/Figure_5/social_group_composition.csv,Numerical source data for main figure
+02_source_data/figures/Figure_5/two_dimensional_histogram.csv,Numerical source data for main figure
+02_source_data/figures/Figure_6/cutoffs_24_combinations.csv,Numerical source data for main figure
+02_source_data/figures/Figure_6/map_states_10percent.csv,Numerical source data for main figure
+02_source_data/figures/Figure_6/summary_24_combinations.csv,Numerical source data for main figure
 02_source_data/measurement/all_matched_tract_results.csv,Processed canopy measurement data
 02_source_data/measurement/annual_stage_results.csv,Processed canopy measurement data
 02_source_data/measurement/annual_target_series.csv,Processed canopy measurement data
@@ -109,5 +133,6 @@ requirements.txt,Documentation or configuration
 requirements_source_review.txt,Documentation or configuration
 run_reproduction.py,Executable summary reproduction code
 source_config.json,Documentation or configuration
+SOURCE_DATA_MAP.md,Documentation or configuration
 source_support/nc_paths.py,Documentation or configuration
 SOURCE_WORKFLOW.md,Documentation or configuration
