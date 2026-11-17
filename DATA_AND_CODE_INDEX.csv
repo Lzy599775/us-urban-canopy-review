@@ -60,7 +60,7 @@ path,role
 02_source_data/paper_tables/Table_1.csv,Main or supplementary table
 02_source_data/paper_tables/Table_2.csv,Main or supplementary table
 02_source_data/paper_tables/Table_3.csv,Main or supplementary table
-02_source_data/paper_tables/Table_S9_frozen_continuous_projection_source.csv,Main or supplementary table
+02_source_data/paper_tables/Table_S9_frozen_continuous_projection_source.csv,Supporting continuous-characteristic projection data
 02_source_data/project/05_scripts/aggregate_national_canopy_state.py,Scientific source code or processed analysis input
 02_source_data/project/05_scripts/aggregate_state_same_day_composite_annual.py,Scientific source code or processed analysis input
 02_source_data/project/05_scripts/analyze_canopy_cooling_equity_20261009.py,Scientific source code or processed analysis input
