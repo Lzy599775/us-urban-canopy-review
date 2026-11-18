@@ -10,4 +10,4 @@ Historical experiment audits record econml 0.17.0. The final geographically adju
 
 Primary sources: US Forest Service and USGS National Land Cover Database tree canopy products; USGS Landsat; US Census Bureau geographic and demographic products; gridMET meteorological data. Product-specific acquisition and processing settings are recorded in the corresponding scripts. Source-provider terms continue to apply to their products.
 
-The repository is provided through private access for editorial and peer review. A public redistribution licence will be specified separately by the authors.
+The repository is publicly accessible for editorial and peer review. No reuse licence has been assigned; third-party source-provider terms continue to apply.
